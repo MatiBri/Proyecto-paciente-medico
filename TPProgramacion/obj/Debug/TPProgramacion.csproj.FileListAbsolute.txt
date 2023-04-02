@@ -1,0 +1,21 @@
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Lucas Karam 110227\TPProgramacion\TPProgramacion\bin\Debug\TPProgramacion.exe.config
+C:\Users\BRUNO-MSI\Documents\Visual Studio 2017\Repos\TPProgramacion\TPProgramacion\bin\Debug\TPProgramacion.exe.config
+C:\Users\BRUNO-MSI\Documents\Visual Studio 2017\Repos\TPProgramacion\TPProgramacion\bin\Debug\TPProgramacion.exe
+C:\Users\BRUNO-MSI\Documents\Visual Studio 2017\Repos\TPProgramacion\TPProgramacion\bin\Debug\TPProgramacion.pdb
+C:\Users\BRUNO-MSI\Documents\Visual Studio 2017\Repos\TPProgramacion\TPProgramacion\obj\Debug\TPProgramacion.csprojAssemblyReference.cache
+C:\Users\BRUNO-MSI\Documents\Visual Studio 2017\Repos\TPProgramacion\TPProgramacion\obj\Debug\TPProgramacion.Form1.resources
+C:\Users\BRUNO-MSI\Documents\Visual Studio 2017\Repos\TPProgramacion\TPProgramacion\obj\Debug\TPProgramacion.Properties.Resources.resources
+C:\Users\BRUNO-MSI\Documents\Visual Studio 2017\Repos\TPProgramacion\TPProgramacion\obj\Debug\TPProgramacion.csproj.GenerateResource.cache
+C:\Users\BRUNO-MSI\Documents\Visual Studio 2017\Repos\TPProgramacion\TPProgramacion\obj\Debug\TPProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\BRUNO-MSI\Documents\Visual Studio 2017\Repos\TPProgramacion\TPProgramacion\obj\Debug\TPProgramacion.exe
+C:\Users\BRUNO-MSI\Documents\Visual Studio 2017\Repos\TPProgramacion\TPProgramacion\obj\Debug\TPProgramacion.pdb
+C:\Users\bangho\Downloads\TPProgramacion\TPProgramacion\bin\Debug\TPProgramacion.exe.config
+C:\Users\bangho\Downloads\TPProgramacion\TPProgramacion\bin\Debug\TPProgramacion.exe
+C:\Users\bangho\Downloads\TPProgramacion\TPProgramacion\bin\Debug\TPProgramacion.pdb
+C:\Users\bangho\Downloads\TPProgramacion\TPProgramacion\obj\Debug\TPProgramacion.csprojAssemblyReference.cache
+C:\Users\bangho\Downloads\TPProgramacion\TPProgramacion\obj\Debug\TPProgramacion.Form1.resources
+C:\Users\bangho\Downloads\TPProgramacion\TPProgramacion\obj\Debug\TPProgramacion.Properties.Resources.resources
+C:\Users\bangho\Downloads\TPProgramacion\TPProgramacion\obj\Debug\TPProgramacion.csproj.GenerateResource.cache
+C:\Users\bangho\Downloads\TPProgramacion\TPProgramacion\obj\Debug\TPProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\bangho\Downloads\TPProgramacion\TPProgramacion\obj\Debug\TPProgramacion.exe
+C:\Users\bangho\Downloads\TPProgramacion\TPProgramacion\obj\Debug\TPProgramacion.pdb
